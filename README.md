@@ -1,2 +1,1 @@
-# Power BI Projects
- Power BI Project Repository
+In This Repository Power Bi Dashboard will be shown
